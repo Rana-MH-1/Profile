@@ -1,0 +1,18 @@
+
+.profile{
+    
+    display: grid;
+    grid-template-columns: 50% 50%;
+    width: 100%;
+    background-image: url('backgroundimage.jpg');
+    padding-top: 120px;
+    height: 540px;
+    font-size: large;
+    font-family: 'Goblin One', sans-serif;
+    color: #BC7E35;
+    
+}
+
+.note{
+    margin-top: 50px;
+}
